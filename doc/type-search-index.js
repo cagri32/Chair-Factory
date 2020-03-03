@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"eecs2030.lab5","l":"Chair"},{"p":"eecs2030.lab5","l":"ChairCategoryNotValid"},{"p":"eecs2030.lab5","l":"ChairColorNotValid"},{"p":"eecs2030.lab5","l":"ChairShapeNotValid"},{"p":"eecs2030.lab5","l":"ComputerChair"},{"p":"eecs2030.lab5","l":"ConferenceChair"}]
